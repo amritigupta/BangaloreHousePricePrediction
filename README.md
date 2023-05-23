@@ -1,1 +1,2 @@
 # BangaloreHousePricePrediction
+-LINEAR REGRESSION -LASSO REGRESSION -DECISION TREE
